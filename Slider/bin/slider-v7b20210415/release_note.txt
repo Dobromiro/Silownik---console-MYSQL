@@ -1,0 +1,1 @@
+Program pobiera dane z odpowiedniej tabeli tożsamej z linią. nazwę linii ustawia sie w pliku line.txt

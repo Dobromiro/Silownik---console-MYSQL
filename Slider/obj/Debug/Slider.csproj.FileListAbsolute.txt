@@ -1,0 +1,30 @@
+C:\Users\kierownik\source\repos\Slider\bin\Debug\Slider.exe.config
+C:\Users\kierownik\source\repos\Slider\bin\Debug\Slider.exe
+C:\Users\kierownik\source\repos\Slider\bin\Debug\Slider.pdb
+C:\Users\kierownik\source\repos\Slider\obj\Debug\Slider.csprojAssemblyReference.cache
+C:\Users\kierownik\source\repos\Slider\obj\Debug\Slider.exe
+C:\Users\kierownik\source\repos\Slider\obj\Debug\Slider.pdb
+C:\Users\kierownik\source\repos\Slider\bin\Debug\MySql.Data.dll
+C:\Users\kierownik\source\repos\Slider\obj\Debug\Slider.csproj.CopyComplete
+C:\Users\kierownik\Desktop\programowanie\Siłownik\Silownik - console + MYSQL\Slider\bin\Debug\Slider.exe.config
+C:\Users\kierownik\Desktop\programowanie\Siłownik\Silownik - console + MYSQL\Slider\bin\Debug\Slider.exe
+C:\Users\kierownik\Desktop\programowanie\Siłownik\Silownik - console + MYSQL\Slider\bin\Debug\Slider.pdb
+C:\Users\kierownik\Desktop\programowanie\Siłownik\Silownik - console + MYSQL\Slider\bin\Debug\MySql.Data.dll
+C:\Users\kierownik\Desktop\programowanie\Siłownik\Silownik - console + MYSQL\Slider\bin\Debug\Google.Protobuf.dll
+C:\Users\kierownik\Desktop\programowanie\Siłownik\Silownik - console + MYSQL\Slider\bin\Debug\Zstandard.Net.dll
+C:\Users\kierownik\Desktop\programowanie\Siłownik\Silownik - console + MYSQL\Slider\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\kierownik\Desktop\programowanie\Siłownik\Silownik - console + MYSQL\Slider\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kierownik\Desktop\programowanie\Siłownik\Silownik - console + MYSQL\Slider\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\kierownik\Desktop\programowanie\Siłownik\Silownik - console + MYSQL\Slider\bin\Debug\Renci.SshNet.dll
+C:\Users\kierownik\Desktop\programowanie\Siłownik\Silownik - console + MYSQL\Slider\bin\Debug\System.Memory.dll
+C:\Users\kierownik\Desktop\programowanie\Siłownik\Silownik - console + MYSQL\Slider\bin\Debug\System.Buffers.dll
+C:\Users\kierownik\Desktop\programowanie\Siłownik\Silownik - console + MYSQL\Slider\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\kierownik\Desktop\programowanie\Siłownik\Silownik - console + MYSQL\Slider\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\kierownik\Desktop\programowanie\Siłownik\Silownik - console + MYSQL\Slider\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kierownik\Desktop\programowanie\Siłownik\Silownik - console + MYSQL\Slider\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kierownik\Desktop\programowanie\Siłownik\Silownik - console + MYSQL\Slider\bin\Debug\MySql.Data.xml
+C:\Users\kierownik\Desktop\programowanie\Siłownik\Silownik - console + MYSQL\Slider\obj\Debug\Slider.csprojAssemblyReference.cache
+C:\Users\kierownik\Desktop\programowanie\Siłownik\Silownik - console + MYSQL\Slider\obj\Debug\Slider.exe.config
+C:\Users\kierownik\Desktop\programowanie\Siłownik\Silownik - console + MYSQL\Slider\obj\Debug\Slider.csproj.CopyComplete
+C:\Users\kierownik\Desktop\programowanie\Siłownik\Silownik - console + MYSQL\Slider\obj\Debug\Slider.exe
+C:\Users\kierownik\Desktop\programowanie\Siłownik\Silownik - console + MYSQL\Slider\obj\Debug\Slider.pdb

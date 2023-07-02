@@ -1,0 +1,17 @@
+C:\Users\kierownik\source\repos\Slider\bin\Debug\Slider.exe.config
+C:\Users\kierownik\source\repos\Slider\bin\Debug\Slider.exe
+C:\Users\kierownik\source\repos\Slider\bin\Debug\Slider.pdb
+C:\Users\kierownik\source\repos\Slider\obj\Debug\Slider.csprojAssemblyReference.cache
+C:\Users\kierownik\source\repos\Slider\obj\Debug\Slider.exe
+C:\Users\kierownik\source\repos\Slider\obj\Debug\Slider.pdb
+C:\Users\kierownik\source\repos\Slider\bin\Debug\MySql.Data.dll
+C:\Users\kierownik\source\repos\Slider\obj\Debug\Slider.csproj.CopyComplete
+C:\Users\mateusz.wernik\Documents\MateuszWernik\programowanie\Siłownik\Silownik - console + MYSQL\Slider manual\bin\Debug\Slider.exe.config
+C:\Users\mateusz.wernik\Documents\MateuszWernik\programowanie\Siłownik\Silownik - console + MYSQL\Slider manual\bin\Debug\Slider.exe
+C:\Users\mateusz.wernik\Documents\MateuszWernik\programowanie\Siłownik\Silownik - console + MYSQL\Slider manual\bin\Debug\Slider.pdb
+C:\Users\mateusz.wernik\Documents\MateuszWernik\programowanie\Siłownik\Silownik - console + MYSQL\Slider manual\obj\Debug\Slider.csproj.AssemblyReference.cache
+C:\Users\mateusz.wernik\Documents\MateuszWernik\programowanie\Siłownik\Silownik - console + MYSQL\Slider manual\obj\Debug\Slider.csproj.SuggestedBindingRedirects.cache
+C:\Users\mateusz.wernik\Documents\MateuszWernik\programowanie\Siłownik\Silownik - console + MYSQL\Slider manual\obj\Debug\Slider.csproj.CoreCompileInputs.cache
+C:\Users\mateusz.wernik\Documents\MateuszWernik\programowanie\Siłownik\Silownik - console + MYSQL\Slider manual\obj\Debug\Slider.csproj.CopyComplete
+C:\Users\mateusz.wernik\Documents\MateuszWernik\programowanie\Siłownik\Silownik - console + MYSQL\Slider manual\obj\Debug\Slider.exe
+C:\Users\mateusz.wernik\Documents\MateuszWernik\programowanie\Siłownik\Silownik - console + MYSQL\Slider manual\obj\Debug\Slider.pdb
